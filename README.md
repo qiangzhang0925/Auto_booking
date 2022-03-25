@@ -6,7 +6,7 @@
 ### 使用步骤
 - 安装依赖包
 ``` pip install -r requirements.txt```
-- 在__mian__中添加预约信息
+- 在__main__中添加预约信息
 ```
 username = ''#一卡通
 password = ''#统一身份密码
